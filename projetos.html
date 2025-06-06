@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Meus Projetos</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    article.projeto2 {
+      display: flex;
+      align-items: flex-start;
+      gap: 20px;
+      margin-bottom: 30px;
+    }
+
+    article.projeto2 .conteudo-texto {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    article.projeto2 .conteudo-texto p {
+      margin-top: 5px;
+      margin-bottom: 10px;
+    }
+
+    article.projeto2 .conteudo-texto a {
+      color: #00bcd4;
+      font-weight: bold;
+      text-decoration: none;
+      width: fit-content;
+    }
+
+    article.projeto2 .conteudo-texto a:hover {
+      text-decoration: underline;
+    }
+
+    article.projeto2 img {
+      max-width: 300px;
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+      object-fit: contain;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Início</a></li>
+        <li><a href="sobre.html">Sobre</a></li>
+        <li><a href="projetos.html" class="ativo">Projetos</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <article class="projeto2">
+        <div class="conteudo-texto">
+          <h2>Projeto 1: Site Portfólio</h2>
+          <p>
+            Site Portfólio pessoal desenvolvido com HTML, CSS e JavaScript. Projeto da cadeira de Introdução a
+            Computação do professor Erick Simões
+          </p>
+          <a href="https://github.com/dvoliav/Site-Portfolio" target="_blank" rel="noopener noreferrer">Ver no
+            GitHub</a>
+        </div>
+      </article>
+
+      <article class="projeto2">
+        <div class="conteudo-texto">
+          <h2>Projeto 2: Jogo SINALIZE</h2>
+          <p>
+            O jogo SINALIZE foi um projeto desenvolvido na cadeira de Projetos 1, fruto do trabalho do grupo 10, o jogo
+            SINALIZE tem como principal objetivo auxiliar a alfabetização de crianças deficientes auditivas, tanto na
+            língua de sinais, como na língua portuguesa.
+          </p>
+          <a href="https://github.com/Nobutann/projeto-1-grupo-10/tree/main" target="_blank"
+            rel="noopener noreferrer">Ver no GitHub</a>
+        </div>
+        <img src="imagens-site/projeto.png" alt="Screenshot do Jogo SINALIZE" />
+      </article>
+
+  </main>
+
+  <footer>
+    <p>© 2025 Seu Nome</p>
+  </footer>
+</body>
+
+</html>
