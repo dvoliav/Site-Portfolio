@@ -1,6 +1,6 @@
 # Site Portfólio de Diego Volia
 
-Bem-vindo ao meu site de portfólio! Este projeto foi criado como parte das atividades do curso de HTML, CSS e JavaScript. Aqui você encontra informações sobre mim e meus principais projetos.
+Bem-vindo ao meu site de portfólio! Este projeto foi criado como parte da atividade da cadeira de Introdução a Computação do professor Erick Simões. Para criação do site foi utilizado HTML, CSS e JavaScript. Aqui você encontra informações sobre mim e alguns projetos.
 
 ## 🔗 Acesse o site
 
@@ -31,4 +31,26 @@ Este projeto atende aos seguintes requisitos:
   - `voltarAoTopo()`
 
 ## 📂 Estrutura de Pastas
+📁 imagens-site/
+│ ├── fundo.png
+│ ├── perfil.png
+│ └── projeto.png
+├── index.html
+├── sobre.html
+├── projetos.html
+├── style.css
+├── script.js
+└── README.md
+
+## 📬 Contato
+
+Você pode me encontrar nas redes sociais:
+
+- [Instagram](https://www.instagram.com/dvoliav)
+- [LinkedIn](https://www.linkedin.com/in/diegovoliav/)
+- [GitHub](https://github.com/dvoliav)
+
+---
+
+© 2025 Diego Volia
 
