@@ -8,9 +8,9 @@ Bem-vindo ao meu site de portfólio! Este projeto foi criado como parte da ativi
 
 ## 🧠 Sobre mim
 
-Sou Diego Gomes (também conhecido como Diego Volia), nascido em 2008 e atualmente estudante de Ciência da Computação na CESAR School. Desenvolvi este site com o objetivo de apresentar meus conhecimentos e experiências na área de tecnologia.
+Sou Diego Gomes, mais conhecido como Diego Volia, nascido em 2008 e atualmente estudante de Ciência da Computação na CESAR School. 
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Linguagens Utilizadas
 
 - HTML5
 - CSS3 (com Grid e Flexbox)
