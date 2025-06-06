@@ -30,18 +30,6 @@ Este projeto atende aos seguintes requisitos:
   - `rolarParaConteudo()`
   - `voltarAoTopo()`
 
-## 📂 Estrutura de Pastas
-📁 imagens-site/
-│ ├── fundo.png
-│ ├── perfil.png
-│ └── projeto.png
-├── index.html
-├── sobre.html
-├── projetos.html
-├── style.css
-├── script.js
-└── README.md
-
 ## 📬 Contato
 
 Você pode me encontrar nas redes sociais:
