@@ -4,7 +4,7 @@ Bem-vindo ao meu site de portfólio! Este projeto foi criado como parte da ativi
 
 ## 🔗 Acesse o site
 
-Você pode visualizar o site acessando este repositório localmente ou hospedando-o em serviços como GitHub Pages.
+- [Site Portfólio](https://dvoliav.github.io/Site-Portfolio/)
 
 ## 🧠 Sobre mim
 
